@@ -1,0 +1,23 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+"repository":{
+  "type": "git",
+  "url": "git+https://github.com/ianmhambe/devops-pipelines.git"
+
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/ianmhambe/devops-pipelines.git"
+  },
+  "homepage": "https://github.com/ianmhambe/devops-pipelines#readme"
+}
